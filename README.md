@@ -8,3 +8,5 @@ Simple IP Logger that sends the victim ip to your Discord Webhook
 4) After line 19 you can add your own code and give it to the victim as an .exe or whatever you want to "hide" the ip logger
 
 Enjoy using it!
+
+Discord server: https://discord.gg/UgJhHu7
