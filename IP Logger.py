@@ -1,6 +1,6 @@
 #Made by: Matty#8952
 #Github: MattyTM
-#Discord server: https://discord.gg/CJWW7DW
+#Discord server: https://discord.gg/UgJhHu7
 import requests
 import discord_webhook
 import socket
